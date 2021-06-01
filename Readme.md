@@ -6,4 +6,6 @@ Editad
 
 
 
-Pedrã teste
+Pedrão teste
+
+pra mandar pro Github diretamente.
